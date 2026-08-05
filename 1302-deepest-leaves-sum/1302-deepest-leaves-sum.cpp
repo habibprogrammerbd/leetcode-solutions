@@ -1,6 +1,5 @@
 class Solution {
 public:
-    int sum = 0;
     int max_hight(TreeNode* root)
     {
         if(root == NULL) return 0;
@@ -10,26 +9,25 @@ public:
 
         return max(l,r) +1;
     }
-    int sum_leaves_values(TreeNode* root,int T)
+    void sum_leaves_values(TreeNode* root, int cur, int &sum, int hight)
     {
-        int sum = 0;
-        if(root == NULL) return NULL;
-        queue<pair<TreeNode*,int>> q;
-        if(root) q.push({root,1});
-        while(!q.empty())
+        if(!root) return ;
+        if(cur == hight)
         {
-            TreeNode* fast = q.front().first;
-            int level = q.front().second;
-            q.pop();
-            if( T == level) sum += fast->val;
-
-            if(fast->left) q.push({fast->left,level+1});
-            if(fast->right) q.push({fast->right,level+1});
+            sum += root->val;
+            return ;
         }
-        return sum;
+
+        sum_leaves_values(root->left, cur+1, sum, hight);
+        sum_leaves_values(root->right, cur+1, sum, hight);
     }
+
+
     int deepestLeavesSum(TreeNode* root) {
         int T = max_hight(root);
-        return sum_leaves_values(root,T);
+        int sum = 0;
+        sum_leaves_values(root,1,sum,T);
+        return sum;
     }
 };
+
