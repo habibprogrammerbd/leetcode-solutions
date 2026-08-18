@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1302-deepest-leaves-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1302-deepest-leaves-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
