@@ -4,7 +4,7 @@ public:
         
         int sz = nums.size();
 
-        for(int i = 0,j = i  ; j < sz; j++)
+        for(int i = 0,j = 0  ; j < sz; j++)
         {
             if(nums[j] != 0 )
             {
