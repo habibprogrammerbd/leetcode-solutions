@@ -2,6 +2,10 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+
         int min_val = prices[0];
         int max_val = 0;
         int ans = 0;
