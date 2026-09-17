@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Design
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
