@@ -1,6 +1,9 @@
 class Solution {
 public:
     string reverseWords(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         
         string ans;
         string s1 = "";
