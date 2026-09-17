@@ -4,15 +4,15 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
-        map<int,int> mp;
+        multiset<int> st;
         for(int i = 0; i < nums.size(); i++)
         {
-            mp[nums[i]]++;
+            st.insert(nums[i]);
         }
         
-        for(auto [x,y] : mp)
+        for(int i = 0; i < nums.size(); i++)
         {
-            if(y >= 2)
+            if(st.count(nums[i]) >= 2)
             {
                 return true;
             }
