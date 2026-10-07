@@ -4,33 +4,30 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
-        
-        string ans;
-        string s1 = "";
-        bool x = true;
-        for(int i = s.size() -1; i >= 0; i--)
+        reverse(s.begin(),s.end());
+        string ans = ""; bool x = false;
+
+        for(int i = 0; i < s.size(); i++)
         {
-            if(s[i] != ' ')
+            string word = "";
+
+            while(i < s.size() && s[i] != ' ')
             {
-                s1 += s[i];
-                x = false;
+                word += s[i];
+                i++;
             }
 
-            if((s[i] == ' ' || i == 0 ) && x == false)
+            reverse(word.begin(),word.end());
+
+            if(word.size() > 0 && x == false)
             {
-                reverse(s1.begin(),s1.end());
-                ans += ' ' + s1;
-                s1.clear();
+                ans+= word;
                 x = true;
             }
+            else if(word.size() > 0) ans+= " " + word;
+        }
 
-        }
-        string final_ans = "";
-        for(int  i = 1; i < ans.size(); i++)
-        {
-            final_ans += ans[i];
-        }
     
-        return final_ans;
+        return ans;
     }
 };
