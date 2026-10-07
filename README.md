@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
