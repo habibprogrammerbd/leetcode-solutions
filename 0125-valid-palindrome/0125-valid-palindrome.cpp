@@ -1,34 +1,43 @@
 class Solution {
 public:
+    bool idAlphaNum(char x)
+    {
+        if((x >= '0' && x <='9') || (tolower(x) >= 'a' && tolower(x) <= 'z'))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
     bool isPalindrome(string s) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
 
+        int st = 0, end = s.size() -1;
 
-
-        string s1 = "";
-        
-        for(int i = 0; i < s.size(); i++)
+        while(st <= end)
         {
-            if(int(s[i] >= 97 && 122 >= int(s[i])))
-                s1 += s[i];
-            else if (int(s[i] >= 65 && 90 >= int(s[i])))
+            if(!idAlphaNum(s[st]))
             {
-                s1 += char(int(s[i])+ 32);
+                st++;
+                continue;
             }
-            else if(int(s[i] >= 48 && 57 >= int(s[i])))
+            if(!idAlphaNum(s[end]))
             {
-                s1 += s[i];
+                end--;
+                continue;
             }
 
+            if(tolower(s[st]) != tolower(s[end]))
+            {
+                return false;
+            }
+            st++, end--;
         }
 
-        string s2 = s1;
-        reverse(s2.begin(),s2.end());
-
-
-        if(s1 == s2) return true ;
-        else return false;
-            
+        return true;
     }
 };
