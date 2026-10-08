@@ -1,16 +1,16 @@
 class Solution {
 public:
-    bool idAlphaNum(char x)
-    {
-        if((x >= '0' && x <='9') || (tolower(x) >= 'a' && tolower(x) <= 'z'))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
+    // bool idAlphaNum(char x)
+    // {
+    //     if((x >= '0' && x <='9') || (tolower(x) >= 'a' && tolower(x) <= 'z'))
+    //     {
+    //         return true;
+    //     }
+    //     else
+    //     {
+    //         return false;
+    //     }
+    // }
 
     bool isPalindrome(string s) {
         ios_base::sync_with_stdio(false);
@@ -20,12 +20,12 @@ public:
 
         while(st <= end)
         {
-            if(!idAlphaNum(s[st]))
+            if(!isalnum(s[st]))
             {
                 st++;
                 continue;
             }
-            if(!idAlphaNum(s[end]))
+            if(!isalnum(s[end]))
             {
                 end--;
                 continue;
