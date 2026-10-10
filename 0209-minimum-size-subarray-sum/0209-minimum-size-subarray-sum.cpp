@@ -21,7 +21,6 @@ public:
             }
             sec++;
         }
-        cout << ans << endl;
 
         if(x == true) return ans;
         else return 0;
