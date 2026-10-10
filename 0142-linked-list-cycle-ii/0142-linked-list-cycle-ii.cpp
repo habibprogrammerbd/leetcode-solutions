@@ -3,7 +3,7 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode* frist = head;
         ListNode* show = head;
-        ListNode* curr = head;
+        bool cycle = false;
         while(frist != NULL && frist->next != NULL)
         {
             frist = frist->next->next;
@@ -11,15 +11,24 @@ public:
 
             if(frist == show)
             {
-                while(frist != curr)
-                {
-                    curr = curr->next;
-                    frist = frist->next;
-                }
-                return curr;
+                cycle = true;
+                break;
             }
         }
 
-        return NULL;
+        if(!cycle) return NULL;
+
+        // ListNode* CycleremoveNode = NULL;
+        show = head;
+
+        while(frist != show)
+        {
+            show = show->next;
+            // CycleremoveNode = frist;
+            frist = frist->next;
+        }
+        // CycleremoveNode->next = NULL; // remove Cycler
+
+        return frist;
     }
 };
