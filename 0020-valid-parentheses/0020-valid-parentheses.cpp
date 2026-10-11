@@ -3,7 +3,7 @@ public:
     bool isValid(string s) {
         stack<int> st;
 
-        for(int x : s)
+        for(char x : s)
         {
             if(x == '(' || x == '{' || x == '[')
             {
@@ -15,35 +15,24 @@ public:
                 {
                     return false;
                 }
-                else
+                if(st.top() == '(' && x == ')')
                 {
-                    if( x == ')' && st.top() == '(')
-                    {
-                        st.pop();
-                    }
-                    else if(x == '}' && st.top() == '{')
-                    {
-                        st.pop();
-                    }
-                    else if(x == ']' && st.top() == '[')
-                    {
-                        st.pop();
-                    }
-                    else
-                    {
-                        return false;
-                    }
+                    st.pop();
                 }
+                else if(st.top() == '{' && x == '}')
+                {
+                    st.pop();
+                }
+                else if(st.top() == '[' && x == ']')
+                {
+                    st.pop();
+                }
+                else return false;
             }
         }
 
-        if(st.empty())
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        if(st.empty()) return true;
+        else return false;
+    
     }
 };
