@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void merge(vector<int>& arr, int str,int mid, int end)
+    vector<int> merge(vector<int>& arr, int str,int mid, int end)
     {
         vector<int> ans;
         int i = str, j = mid +1;
@@ -31,10 +31,7 @@ public:
             j++;
         }
 
-        for(int idx = 0; idx < ans.size(); idx++)
-        {
-            arr[idx + str] = ans[idx];
-        }
+        return ans;
     }
     void mergeSort(vector<int>& arr, int str, int end)
     {
@@ -45,7 +42,8 @@ public:
             mergeSort(arr, str, mid); // left
             mergeSort(arr, mid +1, end); // right
 
-            merge(arr,str, mid, end);
+            vector<int> tmp = merge(arr,str, mid, end);
+            copy(tmp.begin(),tmp.end(), arr.begin() + str);
         }
     }
     vector<int> sortArray(vector<int>& nums) {
