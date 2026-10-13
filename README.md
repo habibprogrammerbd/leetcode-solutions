@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 ## Design
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
