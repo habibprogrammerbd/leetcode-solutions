@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
