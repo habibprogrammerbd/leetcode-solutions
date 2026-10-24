@@ -1,18 +1,15 @@
 class Solution {
 public:
-    void Iraversal(TreeNode* root,vector<int>& ans)
-    {
-        
-        if (root == NULL) return ;
-
-        Iraversal(root->left,ans);
+    void inorder(TreeNode* root, vector<int>& ans) {
+        if (root == NULL) return;
+        inorder(root->left, ans);
         ans.push_back(root->val);
-        Iraversal(root->right,ans);
-
+        inorder(root->right, ans);
     }
+
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        Iraversal(root,ans);
+        inorder(root, ans);
         return ans;
     }
 };
