@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void dfs(TreeNode* root,vector<int>& ans,int depth)
+    void dfs(TreeNode* node, int depth, vector<int>& ans)
     {
-        if(root == NULL) return;
+        if(node == NULL) return;
 
         if(ans.size() == depth)
         {
-            ans.push_back(root->val);
+            ans.push_back(node->val);
         }
         
-        dfs(root->right,ans,depth +1);
-        dfs(root->left, ans,depth +1);
+        dfs(node->right,depth +1, ans);
+        dfs(node->left, depth +1, ans);
        
     }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        dfs(root, ans, 0);
+        dfs(root,0, ans);
         return ans;
     }
 };
