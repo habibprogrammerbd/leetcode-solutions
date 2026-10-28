@@ -1,17 +1,25 @@
 class Solution {
 public:
-    bool isPalindrome(int x) {
-        string s = to_string(x);
-        string s2 = s;
-        reverse(s2.begin(),s2.end());
+    int reverse(int n) {
+        int revnum = 0;
 
-        if(s == s2)
+        while(n != 0)
         {
-            return true;
+            int dig = n % 10;
+
+            if(revnum > INT_MAX / 10 || revnum < INT_MIN /10) 
+                return 0;
+
+            revnum = (revnum * 10) + dig;
+            n = n/10;
         }
-        else
-        {
-            return false;
-        }
+
+        
+        return revnum;
+    }
+    bool isPalindrome(int x) {
+       if(x < 0) return false;
+
+       return x == reverse(x);
     }
 };
