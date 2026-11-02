@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
