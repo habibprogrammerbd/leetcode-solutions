@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting
 |  |
