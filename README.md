@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
+| [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
 |  |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
