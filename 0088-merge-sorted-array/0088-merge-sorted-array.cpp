@@ -1,61 +1,28 @@
 class Solution {
 public:
-    void merge_sort(vector<int> &arr, int str, int mid, int end)
-    {
-        vector<int> tmp;
-        int i = str, j = mid + 1;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i = m -1, j = n -1, k = m + n -1;
 
-        while(i <= mid && j <= end)
+        while(i >= 0 && j >= 0)
         {
-            if(arr[i] <= arr[j])
+            if(nums1[i] > nums2[j])
             {
-                tmp.push_back(arr[i]);
-                i++;
+                nums1[k] = nums1[i];
+                i--;
             }
             else
             {
-                tmp.push_back(arr[j]);
-                j++;
+                nums1[k] = nums2[j];
+                j--;
             }
+            k--;
         }
 
-        while(i <= mid)
+        while(j >= 0)
         {
-            tmp.push_back(arr[i]);
-            i++;
+            nums1[k] = nums2[j];
+            j--;k--;
         }
 
-        while(j <= end)
-        {
-            tmp.push_back(arr[j]);
-            j++;
-        }
-
-        for(int idx = 0; idx < tmp.size(); idx++)
-        {
-            arr[idx + str] = tmp[idx];
-        }
-    }
-
-    void mergeSort(vector<int> &arr , int str, int end)
-    {
-        if(str < end)
-        {
-            int mid = str +(end - str)/2;
-
-            mergeSort(arr, str, mid); // left
-            mergeSort(arr, mid +1, end); // right
-
-            merge_sort(arr, str, mid, end);
-        }
-    }
-
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-
-        for(int i = 0 ; i < n; i++)
-        {
-            nums1[m + i] = nums2[i];  
-        }
-        mergeSort(nums1,0,(n+m)-1);
     }
 };
