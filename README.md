@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
