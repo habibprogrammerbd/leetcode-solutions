@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -405,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
