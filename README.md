@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -372,12 +376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
