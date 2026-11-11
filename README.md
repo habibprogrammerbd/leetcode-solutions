@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
