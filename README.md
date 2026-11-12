@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
@@ -456,4 +457,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
