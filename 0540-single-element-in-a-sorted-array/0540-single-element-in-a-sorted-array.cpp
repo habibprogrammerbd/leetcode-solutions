@@ -31,7 +31,7 @@ public:
                 if((mid +1) % 2 == 0){
                     right = mid -1;
                 }else{
-                    left = mid -1;
+                    left = mid +1;
                 }
             }
         }
