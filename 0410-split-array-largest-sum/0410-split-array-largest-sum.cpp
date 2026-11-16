@@ -5,6 +5,7 @@ public:
         int std = 1, sum = 0;
         for(int i = 0; i < num.size(); i++)
         {
+            if(num[i] > mid) return false;
 
             if(sum + num[i] <= mid)
             {
