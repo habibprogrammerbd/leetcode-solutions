@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/habibprogrammerbd/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Queue
 |  |
